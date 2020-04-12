@@ -6,11 +6,11 @@ Birinci ödevde kendi deponuz içinde bir depo oluşturdunuz ve bu deponun için
 
 |Kuvvet (N) | Uzanım (m)|
 |-----------|-----------|
-|1          | -0.035    |
-|2          | -0.08     |
-|3          | -0.127    |
-|4          | -0.173    |
-|5          | -0.219    |
+|1          |  0.035    |
+|2          |  0.08     |
+|3          |  0.127    |
+|4          |  0.173    |
+|5          |  0.219    |
 
 
 
@@ -38,11 +38,11 @@ c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0*
 
 |Kuvvet (N) | Uzanım (m)|
 |-----------|-----------|
-|   1.59    |   0.0045  |
-|   3.48    |   0.04    |
-|   6.16    |   0.0178  |
-|   9.95    |   0.02    |
-|  12.35    |   0.03    |
+|   1.59    |  -0.0045  |
+|   3.48    |  -0.04    |
+|   6.16    |  -0.0178  |
+|   9.95    |  -0.02    |
+|  12.35    |  -0.03    |
 
 6. Grafiği defterinize çiziniz.Sonra size verdiğim google sheet örneğini kullanarak bilgisayar ile grafiği çiziniz. Değerler yakın mı? Google sheet dosyasının bağlantısını ver. 
 [grafik](https://docs.google.com/spreadsheets/d/1qFjT_y7fv-8bCCKqI9d-nswE3mVkRn1iLe1cT-A4vdg/edit#gid=0) 
