@@ -6,11 +6,11 @@ Birinci ödevde kendi deponuz içinde bir depo oluşturdunuz ve bu deponun için
 
 |Kuvvet (N) | Uzanım (m)|
 |-----------|-----------|
-|1          | 0.035     |
-|2          | 0.08      |
-|3          | 0.127    |
-|4          | 0.173     |
-|5          | 0.219     |
+|1          | -0.035    |
+|2          | -0.08     |
+|3          | -0.127    |
+|4          | -0.173    |
+|5          | -0.219    |
 
 
 
